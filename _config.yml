@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Tao Yu"
   pronouns         : # example: "she/her"  
-  bio              : 
+  bio              : #  
   location         : "Boston MA"
-  employer         : 
+  employer         :  
   uri              : # URL
   email            : "yu.tao2@northeastern.edu" 
 
