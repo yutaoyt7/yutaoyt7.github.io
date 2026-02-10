@@ -41,19 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.page__content a.custom-link,
-.page__content a.custom-link:visited,
-.page__content a.custom-link:hover,
-.page__content a.custom-link:active {
-  color: inherit !important;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-  background-image: none !important;
-  font-weight: 700 !important;
-}
-.page__content a.custom-link { 
-  color: red !important; 
-  text-decoration: none !important; 
-  font-weight: 900 !important; 
+/* Override academicpages link styling for paper titles */
+html body .page__content a.custom-link,
+html body .page__content a.custom-link:visited,
+html body .page__content a.custom-link:hover,
+html body .page__content a.custom-link:active {
+  color: #111 !important;              /* force not-blue */
+  text-decoration: none !important;     /* remove underline */
+  border-bottom: 0 !important;          /* some themes underline via border */
+  box-shadow: none !important;          /* or via shadow */
+  background-image: none !important;    /* or via background gradient */
 }
