@@ -41,22 +41,14 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Custom link style for paper titles */
 .page__content a.custom-link,
 .page__content a.custom-link:visited,
 .page__content a.custom-link:hover,
 .page__content a.custom-link:active {
   color: inherit !important;
   text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
   font-weight: 700 !important;
-  border-bottom: 0 !important; /* some themes fake underline via border */
-}
-a.custom-link,
-a.custom-link:visited,
-a.custom-link:hover,
-a.custom-link:active {
-  color: inherit !important;
-  text-decoration: none !important;
-  font-weight: 700 !important;
-  border-bottom: 0 !important;
 }
