@@ -44,3 +44,10 @@
 html {
   font-size: 92%;
 }
+.theme-toggle,
+#theme-toggle,
+.theme-toggle-wrapper,
+button.theme-toggle,
+button#theme-toggle {
+  display: none !important;
+}
