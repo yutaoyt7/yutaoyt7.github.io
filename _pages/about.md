@@ -17,7 +17,7 @@ My research interests lie in **online algorithms** and **graph algorithms**. A c
 Mahsa Derakhshan, Tao Yu  
 58th ACM Symposium on Theory of Computing **(STOC 2026)**
 
-- <a class="custom-link" href="https://arxiv.org/abs/2511.06504">Improved Approximation for Ranking on General Graphs</a>  
+- <a href="https://arxiv.org/abs/2511.06504" style="color:#111 !important; text-decoration:none !important; font-weight:700 !important; border-bottom:0 !important; box-shadow:none !important; background-image:none !important;">Improved Approximation for Ranking on General Graphs</a>  
 Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu  
 The 37th Annual ACM-SIAM Symposium on Discrete Algorithms **(SODA 2026)**
 
