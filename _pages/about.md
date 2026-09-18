@@ -27,3 +27,14 @@ Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu
 Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu  
 **(SOSA 2026)** ACM-SIAM Symposium on Simplicity in Algorithms  
 [arXiv](https://arxiv.org/pdf/2511.08801)
+
+
+## Preprints
+- **Improved Bounds for Online Matching on General Graphs with Batched Edge Arrivals**  
+Mahsa Derakhshan, Tao Yu  
+**Under Submission**
+
+- **A Multi-Victim Analysis for Weighted Randomized Greedy Matching On General Graphs**  
+Mahsa Derakhshan, Tao Yu  
+**Under Submission**
+
