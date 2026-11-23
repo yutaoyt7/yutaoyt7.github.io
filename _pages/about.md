@@ -12,6 +12,14 @@ I am a 3rd year PhD student in Theoretical Computer Science at Northeastern Univ
 My research interests lie in **online algorithms** and **graph algorithms**. A current line of my work focuses on **randomized greedy matching algorithms**, where I develop new analytical tools to better understand their behavior and performance in general graphs.
 
 ## Preprints
+- **Settling the Query Complexity of Weighted Stochastic Matching**  
+Mahsa Derakhshan, Andisheh Ghasemi, Tao Yu  
+**Under Submission**
+
+- **Ranking Beats 1-1/e on General Graphs**  
+Mahsa Derakhshan, Tao Yu  
+**Under Submission**
+
 - **Improved Bounds for Online Matching on General Graphs with Batched Edge Arrivals**  
 Mahsa Derakhshan, Tao Yu  
 **Under Submission**
